@@ -4,7 +4,7 @@ hub of all of my repos for classes @ champlain college!
 ### FA23
 - [SYS-140](https://github.com/laurathomas-roy/SYS-140)
 
-## FA24
+### FA24
 - [CSI-230](https://github.com/laurathomas-roy/CSI-230)
 
 ### SP25
