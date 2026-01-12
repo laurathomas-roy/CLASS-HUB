@@ -18,4 +18,4 @@ hub of all of my repos for classes @ champlain college!
 - [CSI-281](https://github.com/laurathomas-roy/CSI-281)
 
 ### SP26
-- [SEC-2350](https://github.com/laurathomas-roy/SEC-350)
+- [SEC-350](https://github.com/laurathomas-roy/SEC-350)
