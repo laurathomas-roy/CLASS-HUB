@@ -1,6 +1,8 @@
 # CLASS-HUB
 hub of all of my repos for classes @ champlain college!
 
+⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄⠄⠂☆
+
 ### FA23
 - [SYS-140: Systems Fundamentals](https://github.com/laurathomas-roy/SYS-140)
 
