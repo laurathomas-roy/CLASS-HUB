@@ -22,3 +22,4 @@ hub of all of my repos for classes @ champlain college!
 ### SP26
 - [SEC-350: Enterprise and Network Security Controls](https://github.com/laurathomas-roy/SEC-350)
 - [SEC-335: Ethical Hacking & Penetration Testing](https://github.com/laurathomas-roy/SEC-335)
+- [SYS-265: System Admin. & Network Services II](https://github.com/laurathomas-roy/SYS-265)
