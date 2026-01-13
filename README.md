@@ -10,7 +10,7 @@ hub of all of my repos for classes @ champlain college!
 ### SP25
 - [NET-150: Network Fundamentals](https://github.com/laurathomas-roy/NET-150)
 - [SEC-250: Computer & Network Security](https://github.com/laurathomas-roy/SEC-250)
-- [SYS-255:System Administration & Network Services I](https://github.com/laurathomas-roy/SYS-255)
+- [SYS-255: System Administration & Network Services I](https://github.com/laurathomas-roy/SYS-255)
 
 ### FA25
 - [NET-215: Network Protocols](https://github.com/laurathomas-roy/NET-215)
