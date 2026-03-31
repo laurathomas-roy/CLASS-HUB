@@ -24,3 +24,4 @@ hub of all of my repos for classes @ champlain college!
 - [SEC-335: Ethical Hacking & Penetration Testing](https://github.com/laurathomas-roy/SEC-335)
 - [SYS-265: System Admin. & Network Services II](https://github.com/laurathomas-roy/SYS-265)
 - [NET-330: Network Design](https://github.com/laurathomas-roy/NET-330)
+- [SYS-265-Final-Project](https://github.com/laurathomas-roy/SYS-265-Final-Project)
