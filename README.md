@@ -25,3 +25,6 @@ hub of all of my repos for classes @ champlain college!
 - [SYS-265: System Admin. & Network Services II](https://github.com/laurathomas-roy/SYS-265)
 - [NET-330: Network Design](https://github.com/laurathomas-roy/NET-330)
 - [SYS-265-Final-Project](https://github.com/laurathomas-roy/SYS-265-Final-Project)
+
+### FA27
+- [SEC-345: Information Assurance](https://github.com/laurathomas-roy/SEC-345)
