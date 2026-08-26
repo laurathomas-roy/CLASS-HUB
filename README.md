@@ -29,3 +29,4 @@ hub of all of my repos for classes @ champlain college!
 ### FA27
 - [SEC-345: Information Assurance](https://github.com/laurathomas-roy/SEC-345)
 - [SYS-350: Enterprise Virtualization](https://github.com/laurathomas-roy/SYS-350)
+- [SEC-440: Systems Security, Net Forensics, & Threat Hunting](https://github.com/laurathomas-roy/SEC-440)
