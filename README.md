@@ -26,7 +26,7 @@ hub of all of my repos for classes @ champlain college!
 - [NET-330: Network Design](https://github.com/laurathomas-roy/NET-330)
 - [SYS-265-Final-Project](https://github.com/laurathomas-roy/SYS-265-Final-Project)
 
-### FA27
+### FA26
 - [SEC-345: Information Assurance](https://github.com/laurathomas-roy/SEC-345)
 - [SYS-350: Enterprise Virtualization](https://github.com/laurathomas-roy/SYS-350)
 - [SEC-440: Systems Security, Net Forensics, & Threat Hunting](https://github.com/laurathomas-roy/SEC-440)
